@@ -1,0 +1,9 @@
+.idea/
+*.log
+node_modules/
+build/
+credentials.js
+atlassian*.xml
+.awspublish*
+docs/
+.DS_Store
